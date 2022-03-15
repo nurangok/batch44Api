@@ -16,7 +16,7 @@ public class Authentication  {
         System.out.println(guncelToken);
     }
 
-    private static String generateToken() {
+    protected static String generateToken() {
         String username = "Batch44Api";
         String password = "Batch44+";
 
