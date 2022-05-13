@@ -11,8 +11,8 @@ public class BookingResponsePojo {
                 "depositpaid": true,
                 "bookingdates": {
             "checkin": "2020-09-09",
-                    "checkout": "2020-09-21"
-        }
+                    "checkout": "2020-09-21"}
+        
     }
     }*/
 
